@@ -9,13 +9,16 @@ Most of my work is done in python, but I am proficient in SQL, R, and DAX as wel
 
 # Data Analysis + Storytelling 📊
 - [Spotify Music Taste Tracker](personal_spotify_tracking/tree/main)
+- [Lyric Analysis](okekejus/lyric-analysis)
 # Statistical Modelling + Machine Learning 🧠
-- all my modelling projects
+- [Stroke Prediction](https://github.com/okekejus/stroke-prediction-model)
 # Data Engineering 🧰
-- api log project
+- [API Logs](okekejus/API-Logs)
+- [Questionnaire Sendout](okekejus/questionnaire-sendout)
 - data retrieval and questionnaire script
 # Apps + Dashboards
 - mainstreamer
-- shiny dashboards
+- [Visualizing Homelessness](https://github.com/okekejus/visualizing-homelessness)
+- [Ontario Birth Study Dashboard](okekejus/webdashboard)
 # Experimental Projects
 - art + music 
