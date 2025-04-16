@@ -10,7 +10,7 @@ Most of my work is done in python, but I am proficient in SQL, R, and DAX as wel
 - [Lyric Analysis](okekejus/lyric-analysis)
 # Statistical Modelling + Machine Learning 🧠
 - [Stroke Prediction](https://github.com/okekejus/stroke-prediction-model) (R)
-- [Disease Prediction](okekejus/disease_prediction) (python)
+- [(Disease Prediction)](https://github.com/okekejus/disease_prediction/blob/main/README.md) (python)
 # Data Engineering 🧰
 - [API Logs](okekejus/API-Logs)
 - [Questionnaire Sendout](okekejus/questionnaire-sendout)
