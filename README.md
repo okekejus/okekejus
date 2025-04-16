@@ -6,7 +6,7 @@ This is a record of some of the work I have done, both personal + professional. 
 Most of my work is done in python, but I am proficient in SQL, R, and DAX as well 😀
 
 # Data Analysis + Storytelling 📊
-- [Spotify Music Taste Tracker](personal_spotify_tracking/tree/main)
+- [Spotify Music Taste Tracker](personal_spotify_tracking)
 - [Lyric Analysis](okekejus/lyric-analysis)
 # Statistical Modelling + Machine Learning 🧠
 - [Stroke Prediction](https://github.com/okekejus/stroke-prediction-model) (R)
