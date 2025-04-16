@@ -8,7 +8,7 @@ Most of my work is done in python, but I am proficient in SQL, R, and DAX as wel
 (edits ongoing currently)
 
 # Data Analysis + Storytelling 📊
-- [Spotify Music Taste Tracker][https://github.com/okekejus/personal_spotify_tracking/tree/main]
+- [Spotify Music Taste Tracker](personal_spotify_tracking/tree/main)
 # Statistical Modelling + Machine Learning 🧠
 - all my modelling projects
 # Data Engineering 🧰
