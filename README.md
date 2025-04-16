@@ -5,6 +5,7 @@ This is a record of some of the work I have done, both personal + professional. 
 
 Most of my work is done in python, but I am proficient in SQL, R, and DAX as well 😀
 
+(edits ongoing currently)
 
 # Data Analysis + Storytelling 📊
 - spotify music taste analysis
