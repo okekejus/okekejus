@@ -12,11 +12,11 @@ Most of my work is done in python, but I am proficient in SQL, R, and DAX as wel
 - [Stroke Prediction](https://github.com/okekejus/stroke-prediction-model) (R)
 - [Disease Prediction](https://github.com/okekejus/disease_prediction/blob/main/README.md) (python)
 # Data Engineering 🧰
-- [API Logs](okekejus/API-Logs)
-- [Questionnaire Sendout](okekejus/questionnaire-sendout)
+- [API Logs](https://github.com/okekejus/API-Logs)
+- [Questionnaire Sendout](https://github.com/okekejus/questionnaire-sendout)
 # Apps + Dashboards
-- [mainstreamer](okekejus/mainstreamer)
+- [mainstreamer](https://github.com/okekejus/mainstreamer)
 - [Visualizing Homelessness](https://github.com/okekejus/visualizing-homelessness)
-- [Ontario Birth Study Dashboard](okekejus/webdashboard)
+- [Ontario Birth Study Dashboard](https://github.com/okekejus/webdashboard)
 # Experimental Projects
 - In progress
