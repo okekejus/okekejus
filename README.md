@@ -17,7 +17,6 @@ Most of my work is done in python, but I am proficient in T-SQL, R, and DAX as w
 - [REDCap Questionnaire Sendout](https://github.com/okekejus/questionnaire-sendout)
 - [Envoke Survey Distribution](https://github.com/okekejus/envoke_distribution)
 # Apps + Dashboards 📱
-- [mainstreamer](https://github.com/okekejus/mainstreamer)
 - [Visualizing Homelessness](https://github.com/okekejus/visualizing-homelessness)
 - [Ontario Birth Study Dashboard](https://github.com/okekejus/webdashboard)
 # Experimental Projects 👨‍🔬
