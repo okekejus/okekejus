@@ -8,6 +8,7 @@ Most of my work is done in python, but I am proficient in T-SQL, R, and DAX as w
 # Data Mining + Storytelling 📊
 - [Personal Music Tracker](https://github.com/okekejus/personal_spotify_tracking)
 - [Lyric Analysis](https://github.com/okekejus/lyric-analysis)
+- [Basketball](https://github.com/okekejus/basketball)
 # Statistical Modelling + Machine Learning 🧠
 - [Stroke Prediction](https://github.com/okekejus/stroke-prediction-model) (Classification)
 - [Disease Prediction](https://github.com/okekejus/disease_prediction) (Classification)
