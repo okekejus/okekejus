@@ -15,8 +15,8 @@ Most of my work is done in python, but I am proficient in T-SQL, R, and DAX as w
 - [Songwriter](https://github.com/okekejus/songwriter) (Deep Learning)
 - [Condo Unit Forecasting](https://github.com/okekejus/time_series_forecasting) (Time Series Modelling)
 # Data Engineering 🧰
-- [Google Analytics](https://github.com/okekejus/google_analytics)
-- [REDCap Questionnaire Sendout](https://github.com/okekejus/questionnaire-sendout)
+- [Google Analytics Data Retrieval](https://github.com/okekejus/google_analytics)
+- [REDCap Survey Distribution](https://github.com/okekejus/questionnaire-sendout)
 - [Envoke Survey Distribution](https://github.com/okekejus/envoke_distribution)
 # Apps + Dashboards 📱
 - [Visualizing Homelessness](https://github.com/okekejus/visualizing-homelessness)
